@@ -1,0 +1,60 @@
+.img{
+    margin-top: 3px;
+    width: 50%;
+    height: 50%;
+    
+}
+
+.menu-container{
+    display: inline-block;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    width: 30%;
+    position: fixed;
+    justify-content: center;
+    margin-left: 5%;
+
+}
+
+vertical-menu {
+    width: 50%; 
+    justify-content: space-between;
+    align-items: center;
+
+  }
+  
+  .vertical-menu a {
+    display: block; /* Make the links appear below each other */
+    text-decoration: none; /* Remove underline from links */
+    width: 200px;
+    height: 40px;
+  }
+
+  .img-btn{
+    width: 30px;
+    height: 30px;
+  /*  margin-left: 50px;
+    margin-top: 10px;*/
+
+  }
+  
+
+ .liste-menu{
+  margin-top: 2%;
+    border-radius: 2em;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .box{
+  margin: 2%;
+  border-radius: 12px;
+  justify-content: space-evenly;
+ }
+
+ .text-btn{
+  color: #C3C3C3;
+  margin-top: 10px;
+ }
